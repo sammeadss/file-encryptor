@@ -41,7 +41,7 @@ This project is a Flask-based web application that allows users to securely encr
    ```python
    pip install -r requirements.txt
    ```
-
+   
 4. **Run the Flask app**:
    ```python
    python app.py
