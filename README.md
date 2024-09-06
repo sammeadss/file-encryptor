@@ -1,7 +1,5 @@
 # File Encryptor/Decryptor Web App
 
----
-
 ## Overview
 This project is a Flask-based web application that allows users to securely encrypt and decrypt files using the AES (symmetric encryption) and RSA (asymmetric encryption) algorithms. 
 
@@ -15,8 +13,6 @@ This project is a Flask-based web application that allows users to securely encr
 - **Flask**: Python-based web framework.
 - **Python Cryptography**: Used for implementing AES and RSA encryption/decryption.
 - **HTML/CSS/Bootstrap**: For front-end design.
-
----
 
 ## Getting Started
 
@@ -63,8 +59,6 @@ This project is a Flask-based web application that allows users to securely encr
    - **RSA (Asymmetric)**: RSA encryption with a 2048-bit key size.
 4. **Submit** and download the processed file.
 
----
-
 ### Security Notes
 - **Key files** (e.g., `aes_key.key`, `private_key.pem`) should be kept secure and are automatically generated during encryption. 
 
@@ -74,8 +68,6 @@ This project is a Flask-based web application that allows users to securely encr
 
 ### License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
 
 ### Contact
 
